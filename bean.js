@@ -5,6 +5,7 @@
  * This requires no specific sketch on the Arduino. All of this is just talking to the bean's radio. 
  */
 
+
 "use strict";
 
 var Bean = require('ble-bean');
