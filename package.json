@@ -1,0 +1,19 @@
+{
+  "name": "sll-bean-comms",
+  "version": "1.0.0",
+  "description": "StartLight Labs LightBlue Bean test app.",
+  "main": "bean.js",
+  "dependencies": {
+    "ble-bean": "2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "lightblue",
+    "bean",
+    "ble"
+  ],
+  "author": "StartLight Labs Inc."
+}
