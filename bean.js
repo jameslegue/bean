@@ -50,7 +50,7 @@ Bean.discover(function(bean){
         console.log("request temp sent");
       });
 
-    }
+    };
 
     intervalId = setInterval(readData,1000);
 
