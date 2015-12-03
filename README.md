@@ -1,3 +1,5 @@
+[![bitHound Overalll Score](https://www.bithound.io/github/jameslegue/bean/badges/score.svg)](https://www.bithound.io/github/jameslegue/bean)
+
 # bean
 LightBlue Bean sample app. Communicates with a LightBlue Bean using NodeJS and the ble-bean NPM package.
 
